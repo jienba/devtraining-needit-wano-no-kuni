@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category">
+    <sys_properties_category action="DELETE">
+        <name>NeedIt Properties</name>
+        <sys_class_name>sys_properties_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-02-09 12:51:41</sys_created_on>
+        <sys_id>95e42748c3c7b250a67d1212b401319d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt Properties</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_properties_category_95e42748c3c7b250a67d1212b401319d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-02-09 12:51:41</sys_updated_on>
+        <title><![CDATA[<p><img title="zoroavatar.jpg" src="/sys_attachment.do?sys_id&#61;a935e388c3c7b250a67d1212b40131c1" alt="" width="109" height="109" /></p>
+<p><strong><em>Pirate hunter Roronoa Zoro</em></strong></p>]]></title>
+    </sys_properties_category>
+    <sys_translated_text action="DELETE" query="documentkey=95e42748c3c7b250a67d1212b401319d"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>b10720391b7935d0ba5ceb9b2d4bcb05</instance_id>
+        <instance_name>dev182423</instance_name>
+        <name>sys_properties_category_95e42748c3c7b250a67d1212b401319d</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_properties_category"&gt;&lt;sys_properties_category action="INSERT_OR_UPDATE"&gt;&lt;name&gt;NeedIt Properties&lt;/name&gt;&lt;sys_class_name&gt;sys_properties_category&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-02-09 12:51:41&lt;/sys_created_on&gt;&lt;sys_id&gt;95e42748c3c7b250a67d1212b401319d&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;NeedIt Properties&lt;/sys_name&gt;&lt;sys_package display_value="NeedIt" source="x_58872_needit"&gt;6ead8e780f603200cd674f8ce1050ed1&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="NeedIt"&gt;6ead8e780f603200cd674f8ce1050ed1&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_properties_category_95e42748c3c7b250a67d1212b401319d&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-02-09 12:51:41&lt;/sys_updated_on&gt;&lt;title&gt;&lt;![CDATA[&lt;p&gt;&lt;img title="zoroavatar.jpg" src="/sys_attachment.do?sys_id&amp;#61;a935e388c3c7b250a67d1212b40131c1" alt="" width="109" height="109" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Pirate hunter Roronoa Zoro&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;]]&gt;&lt;/title&gt;&lt;/sys_properties_category&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=95e42748c3c7b250a67d1212b401319d"/&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-398658631</payload_hash>
+        <record_name>NeedIt Properties</record_name>
+        <reverted_from/>
+        <source>4c996bd0c3223650a67d1212b401310e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-02-09 12:51:41</sys_created_on>
+        <sys_id>90656b88c3c7b250a67d1212b4013177</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19c42752d0c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-02-09 12:51:41</sys_updated_on>
+        <type>System Property Category</type>
+        <update_guid>50656b8850c7b250f61f7c1421abcf76</update_guid>
+        <update_guid_history>50656b8850c7b250f61f7c1421abcf76:-398658631</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-02-09 13:30:49</sys_created_on>
+        <sys_db_object display_value="" name="sys_properties_category">sys_properties_category</sys_db_object>
+        <sys_id>43941ebf82774fd793c12e8f4cb859f9</sys_id>
+        <sys_metadata>95e42748c3c7b250a67d1212b401319d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt Properties</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_properties_category_95e42748c3c7b250a67d1212b401319d</sys_update_name>
+        <sys_update_version display_value="sys_properties_category_95e42748c3c7b250a67d1212b401319d">90656b88c3c7b250a67d1212b4013177</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-02-09 13:30:49</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
